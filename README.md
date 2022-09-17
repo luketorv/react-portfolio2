@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+https://luketorv.github.io/react-portfolio2/
+
 ## Description
 
 An updated portfolio created with React
